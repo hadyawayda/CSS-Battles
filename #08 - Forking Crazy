@@ -1,1 +1,1 @@
-<a><b><style>*{background:#6592CF;position:fixed}a,b{width:140;height:140;background:#060F55;top:110;left:130;border-radius:50%}b{width:20;top:50;border-radius:1pc;box-shadow:10vw 0#060F55,80px 0#060F55,30vw 0#060F55,60px 140px#060F55,5vw -30px#6592CF,60px -30px#6592CF,25vw -30px#6592CF
+<a><b><c><d><e><f><style>*{background:#6592CF;position:fixed}a,b,c,d,e,f{width:35vw;height:35vw;background:#060F55;margin:102 122;border-radius:50%}b,c,d,e,f{width:5vw;height:8pc;border-radius:10px;margin:-60 0}b,c,d,e{box-shadow:5vw -6vh#6592CF}c,d,e{margin:0 40}f{margin:130-60
