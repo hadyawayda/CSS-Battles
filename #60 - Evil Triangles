@@ -1,1 +1,1 @@
-<a><b></b></a><c><d><style>*{background:#19191A;position:absolute}a,c{width:100;height:200;margin:67 92;overflow:hidden}b,d{width:120;height:120;background:#4F77FF;margin:-95-10;transform:rotate(45deg);box-shadow:35.5px 35.5px#19191A,70.8px 70.8px#4F77FF}c{left:100}d{margin:-95-10
+<a><b></b></a><c><d><style>*{background:#19191A;position:absolute}a,c{width:100;height:200;margin:67 92;overflow:hidden}c{left:100}b,d{width:120;height:120;background:#4F77FF;margin:-95-10;box-shadow:38q 38q#19191A,75q 75q#4F77FF;transform:rotate(45deg
